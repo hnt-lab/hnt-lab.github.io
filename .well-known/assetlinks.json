@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.hntlab.biiingo",
+    "sha256_cert_fingerprints": ["79:98:44:1A:31:47:33:FC:C9:01:8A:87:08:07:7B:A4:BC:E2:11:B7:18:96:34:50:35:57:D1:CB:88:82:DB:46"]
+  }
+}]
